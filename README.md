@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, my name is Jakub
 
 - 🔭 I’m currently working on [new video game](https://lizards.games/chameleon "Chameleon")
 - 🌱 I’m currently learning Symfony
