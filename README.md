@@ -1,4 +1,4 @@
-# Hi, my name is Jakub
+### Hi, my name is Jakub
 ## also known as tuna
 
 - 🔭 I’m currently working on [new video game](https://lizards.games/chameleon "Chameleon")
