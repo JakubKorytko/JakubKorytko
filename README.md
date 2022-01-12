@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Symfony
 - 👯 I’m looking to collaborate on [LizardsGames project](https://lizards.games "LizardsGames")
 - ⚡ Fun fact: I love watermelons
-- Contact me via: jakub@korytko.me
+- 📧 Contact me: jakub@korytko.me
 
-### Technologies that I use (some of them):
+## Some technologies that i use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
