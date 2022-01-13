@@ -8,7 +8,7 @@
 
 ## Some technologies that i use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="[icon]vscode.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
 <img align="left" alt="HTML5" width="26px" src="[icon]html.png" />
 <img align="left" alt="CSS3" width="26px" src="[icon]css.png" />
 <img align="left" alt="JavaScript" width="26px" src="[icon]js.png" />
@@ -27,5 +27,3 @@
 <img align="left" alt="C#" width="26px" src="[icon]csharp.png" />
 <img align="left" alt="Linux" width="26px" src="[icon]linux.png" />
 <img align="left" alt="Handlebars" width="26px" src="[icon]handlebars.png" />
-
-[icon]: ./icons/
