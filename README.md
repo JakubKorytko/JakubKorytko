@@ -85,3 +85,8 @@ I'm also interested in AI, astronomy and video games.
 <hr />
  
  </details>
+
+
+## Contact me
+
+✉️ jakub@korytko.me
