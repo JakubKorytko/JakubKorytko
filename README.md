@@ -14,8 +14,14 @@ I'm also interested in AI, astronomy and video games.
 [![portfolio](https://img.shields.io/badge/my_portfolio-ffd700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://korytko.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korytko/)
 [![gdev](https://img.shields.io/badge/google%20developer-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/korytko)
-## 🛠 Skills
 
+<details>
+  
+  <summary><b>🛠 Skills</b></summary>
+  <br />
+  
+<hr />
+  
 ![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
 ![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
 ![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
@@ -75,3 +81,7 @@ I'm also interested in AI, astronomy and video games.
 
 ![Laravel](https://korytko.dev/static/github_icons/laravel.png)
 ![TypeScript](https://korytko.dev/static/github_icons/typescript.png)
+
+<hr />
+ 
+ </details>
