@@ -17,7 +17,7 @@ I'm also interested in AI, astronomy and video games.
 
 <details>
   
-  <summary><b>🛠 Languages and technologies</b></summary>
+  <summary><b>🛠 Languages and technologies that i use</b></summary>
   <br />
   
 <hr />
