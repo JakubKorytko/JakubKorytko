@@ -4,6 +4,7 @@
 ## 🚀 About Me
 I'm Junior dev from Poland.  
 I graduated from the best IT school in my country (ZSŁ in Cracow).  
+Student of Politechnika Krakowska in the field of Computer Science.  
 I spent a large part of my life on coding.  
 Created indie game studio called LizardsGames (8-person team).  
 For frontend I mainly use React, and when it comes to backend I use NodeJS on Nginx server.  
