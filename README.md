@@ -23,25 +23,32 @@ I'm also interested in AI, astronomy and video games.
   
 <hr />
   
+The technologies that I use the most:
+
+![TypeScript](https://korytko.dev/static/github_icons/typescript.png)
+![React](https://korytko.dev/static/github_icons/react.png)
 ![HTML5](https://korytko.dev/static/github_icons/html5.png)
 ![CSS3](https://korytko.dev/static/github_icons/css3.png)
+![SQLite](https://korytko.dev/static/github_icons/sqlite.png)
+![Docker](https://korytko.dev/static/github_icons/docker.png)
+![NodeJS](https://korytko.dev/static/github_icons/nodedotjs.png)
+![Python](https://korytko.dev/static/github_icons/python.png)
+![Bootstrap](https://korytko.dev/static/github_icons/bootstrap.png)
+![ExpressJS](https://korytko.dev/static/github_icons/expressjs.png)
+![Git](https://korytko.dev/static/github_icons/git.png)
+
+But I also use:
+
 ![JavaScript](https://korytko.dev/static/github_icons/javascript.png)
 ![PHP](https://korytko.dev/static/github_icons/php.png)
 ![MySQL](https://korytko.dev/static/github_icons/mysql.png)
-![NodeJS](https://korytko.dev/static/github_icons/nodedotjs.png)
 ![Handlebars](https://korytko.dev/static/github_icons/handlebarsdotjs.png)
 ![JQuery](https://korytko.dev/static/github_icons/jquery.png)
-![React](https://korytko.dev/static/github_icons/react.png)
-![Python](https://korytko.dev/static/github_icons/python.png)
 ![Linux](https://korytko.dev/static/github_icons/linux.png)
-![Bootstrap](https://korytko.dev/static/github_icons/bootstrap.png)
-![Git](https://korytko.dev/static/github_icons/git.png)
 ![Sass](https://korytko.dev/static/github_icons/sass.png)
-![TypeScript](https://korytko.dev/static/github_icons/typescript.png)
 ![Nginx](https://korytko.dev/static/github_icons/nginx.png)
 ![C#](https://korytko.dev/static/github_icons/csharp.png)
 ![Laravel](https://korytko.dev/static/github_icons/laravel.png)
-![Docker](https://korytko.dev/static/github_icons/docker.png)
 ![Dotnet](https://korytko.dev/static/github_icons/dotnet.png)
 
 <hr />
