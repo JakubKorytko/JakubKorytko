@@ -9,3 +9,8 @@ Created indie game studio called LizardsGames (8-person team).
 For frontend I mainly use React, and when it comes to backend I use NodeJS on Nginx server.  
 My main choice for databases is MySQL and for scripts I'm using Python.  
 I'm also interested in AI, astronomy and video games.  
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-ffd700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://korytko.dev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korytko/)
+[![gdev](https://img.shields.io/badge/google%20developer-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/korytko)
