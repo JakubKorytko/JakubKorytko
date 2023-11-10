@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Symfony
 - 👯 I’m looking to collaborate on [LizardsGames project](https://lizards.games "LizardsGames")
 - ⚡ Fun fact: I love watermelons
-
+- 📧 Contact me: jakub@korytko.me
