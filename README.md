@@ -23,66 +23,26 @@ I'm also interested in AI, astronomy and video games.
   
 <hr />
   
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png) 
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-
 ![HTML5](https://korytko.dev/static/github_icons/html5.png)
 ![CSS3](https://korytko.dev/static/github_icons/css3.png)
 ![JavaScript](https://korytko.dev/static/github_icons/javascript.png)
 ![PHP](https://korytko.dev/static/github_icons/php.png)
-
-<hr />
-
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-
 ![MySQL](https://korytko.dev/static/github_icons/mysql.png)
 ![NodeJS](https://korytko.dev/static/github_icons/nodedotjs.png)
 ![Handlebars](https://korytko.dev/static/github_icons/handlebarsdotjs.png)
 ![JQuery](https://korytko.dev/static/github_icons/jquery.png)
 ![React](https://korytko.dev/static/github_icons/react.png)
 ![Python](https://korytko.dev/static/github_icons/python.png)
-
-<hr />
-
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-
 ![Linux](https://korytko.dev/static/github_icons/linux.png)
 ![Bootstrap](https://korytko.dev/static/github_icons/bootstrap.png)
 ![Git](https://korytko.dev/static/github_icons/git.png)
 ![Sass](https://korytko.dev/static/github_icons/sass.png)
 ![TypeScript](https://korytko.dev/static/github_icons/typescript.png)
-
-<hr />
-
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-  
 ![Nginx](https://korytko.dev/static/github_icons/nginx.png)
 ![C#](https://korytko.dev/static/github_icons/csharp.png)
-
-<hr />
-
-![Filled star](https://korytko.dev/static/github_icons/star_filled.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-![Empty star](https://korytko.dev/static/github_icons/star_empty.png)
-
 ![Laravel](https://korytko.dev/static/github_icons/laravel.png)
+![Docker](https://korytko.dev/static/github_icons/docker.png)
+![Dotnet](https://korytko.dev/static/github_icons/dotnet.png)
 
 <hr />
  
