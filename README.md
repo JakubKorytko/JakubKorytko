@@ -61,6 +61,6 @@ But I also use:
 
 </details>
 
-## Contact me
+## ✉️ Contact me
 
-✉️ <jakub@korytko.me>
+Send me an email: <jakub@korytko.me>
