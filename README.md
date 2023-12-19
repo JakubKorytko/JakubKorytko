@@ -3,15 +3,18 @@
 
 ## 🚀 About Me
 
-I'm Junior dev from Poland.\
-I graduated from the best IT school in my country (ZSŁ in Cracow).\
-Student of Politechnika Krakowska in the field of Computer Science.\
-I spent a large part of my life on coding.\
-Created indie game studio called LizardsGames (8-person team).\
-For frontend I mainly use React,
-and when it comes to backend I use NodeJS on Nginx server.\
-My main choice for databases is MySQL and for scripts I'm using Python.\
-I'm also interested in AI, astronomy and video games.
+Hey there! I'm your friendly neighborhood **React developer**,\
+rocking a degree from the coolest IT school in Cracow, Zespół Szkół Łączności.\
+I'm currently juggling the coding life with **part-time studies in Computer Science**\
+at Politechnika Krakowska – because why stop learning, right?
+
+While I'm all about React, I'm not one to draw strict lines.\
+I'm into the front-end scene, but **I keep my options open for whatever tech adventures come my way**.\
+Fast learner? Throw a challenge at me, and I'll tackle it head-on.
+
+**Passion is my middle name** (figuratively, of course).\
+Whether it's crafting sleek interfaces or diving into new tech realms, I'm all in.\
+I'm here to make the coding world a bit more awesome, one project at a time.
 
 ## 🔗 Links
 
