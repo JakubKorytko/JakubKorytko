@@ -23,44 +23,59 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 [![gdev](https://img.shields.io/badge/google%20developer-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/korytko)\
 [![certificates](https://img.shields.io/badge/certificates-ff7000?style=for-the-badge&logo=udemy&logoColor=black)](https://korytko.dev/cert)
 
-<details>
-  
-  <summary><b>🛠 Languages and technologies that i use</b></summary>
+## 🔨 Tech Stack
 
----
-  
-The technologies that I use the most:
+### Languages
 
-![TypeScript](https://korytko.dev/static/github_icons/typescript.png)
-![React](https://korytko.dev/static/github_icons/react.png)
-![HTML5](https://korytko.dev/static/github_icons/html5.png)
-![CSS3](https://korytko.dev/static/github_icons/css3.png)
-![SQLite](https://korytko.dev/static/github_icons/sqlite.png)
-![Docker](https://korytko.dev/static/github_icons/docker.png)
-![NodeJS](https://korytko.dev/static/github_icons/nodedotjs.png)
-![Python](https://korytko.dev/static/github_icons/python.png)
-![Bootstrap](https://korytko.dev/static/github_icons/bootstrap.png)
-![ExpressJS](https://korytko.dev/static/github_icons/expressjs.png)
-![Git](https://korytko.dev/static/github_icons/git.png)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 
-But I also use:
+### Web Development
 
-![JavaScript](https://korytko.dev/static/github_icons/javascript.png)
-![PHP](https://korytko.dev/static/github_icons/php.png)
-![MySQL](https://korytko.dev/static/github_icons/mysql.png)
-![Handlebars](https://korytko.dev/static/github_icons/handlebarsdotjs.png)
-![JQuery](https://korytko.dev/static/github_icons/jquery.png)
-![Linux](https://korytko.dev/static/github_icons/linux.png)
-![Sass](https://korytko.dev/static/github_icons/sass.png)
-![Nginx](https://korytko.dev/static/github_icons/nginx.png)
-![C#](https://korytko.dev/static/github_icons/csharp.png)
-![Laravel](https://korytko.dev/static/github_icons/laravel.png)
-![Dotnet](https://korytko.dev/static/github_icons/dotnet.png)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
----
+### DevOps
 
-</details>
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
 
-## ✉️ Contact me
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+### VCS
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+### IDE
+
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
+
+### Package Managers
+
+![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![pip](https://img.shields.io/badge/-pip-05122A?style=flat&logo=pypi)
+![chocolatey](https://img.shields.io/badge/-chocolatey-05122A?style=flat&logo=chocolatey)
+![nuget](https://img.shields.io/badge/-nuget-05122A?style=flat&logo=nuget)
+
+## ✉️ Contact Me
 
 Send me an email: <jakub@korytko.me>
