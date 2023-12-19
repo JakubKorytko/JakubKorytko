@@ -18,9 +18,10 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-ffd700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://korytko.dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korytko/)
-[![gdev](https://img.shields.io/badge/google%20developer-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/korytko)
+[![portfolio](https://img.shields.io/badge/my_portfolio-ffd700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://korytko.dev)\
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korytko/)\
+[![gdev](https://img.shields.io/badge/google%20developer-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/korytko)\
+[![certificates](https://img.shields.io/badge/certificates-ff7000?style=for-the-badge&logo=udemy&logoColor=black)](https://korytko.dev/cert)
 
 <details>
   
