@@ -57,6 +57,7 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
 
 ### Version Control Systems
 
