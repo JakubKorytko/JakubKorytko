@@ -3,13 +3,15 @@
 
 ## 🚀 About Me
 
-Hey there! I'm your friendly neighborhood **React developer**,\
+Hey there! I'm your friendly neighborhood **Full-stack Developer**,\
 rocking a degree from the coolest IT school in Cracow, Zespół Szkół Łączności.\
 I'm currently juggling the coding life with **part-time studies in Computer Science**\
 at Politechnika Krakowska – because why stop learning, right?
 
-While I'm all about React, I'm not one to draw strict lines.\
-I'm into the front-end scene,\
+While I'm all about **JavaScript** and its little brother **TypeScript**,\
+(**React** and **Node.js** are my jam),
+I'm not one to draw strict lines.\
+I'm into the web development scene,\
 but **I keep my options open for whatever tech adventures come my way**.\
 Fast learner? Throw a challenge at me, and I'll tackle it head-on.
 
@@ -30,22 +32,31 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 ### Web Development
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)\
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)\
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+
+### Other Frameworks
+
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 
 ### DevOps
 
@@ -68,14 +79,16 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+\
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
 
 ### Package Managers
 
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-![pip](https://img.shields.io/badge/-pip-05122A?style=flat&logo=pypi)\
+![pip](https://img.shields.io/badge/-pip-05122A?style=flat&logo=pypi)
+\
 ![chocolatey](https://img.shields.io/badge/-chocolatey-05122A?style=flat&logo=chocolatey)
 ![nuget](https://img.shields.io/badge/-nuget-05122A?style=flat&logo=nuget)
 
