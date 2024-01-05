@@ -28,18 +28,6 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ## 🔨 Tech Stack
 
-### Languages
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-\
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
 ### Web Development
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -53,16 +41,22 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
-### Other Frameworks
+### Languages
 
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-### DevOps
+### Version Control Systems
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ### Databases
 
@@ -70,10 +64,16 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
 
-### Version Control Systems
+### DevOps
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+
+### Other Frameworks
+
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 
 ### IDEs
 
