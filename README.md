@@ -40,6 +40,8 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+\
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 
 ### Languages
 
