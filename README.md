@@ -32,7 +32,8 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)\
+![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)
+\
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
@@ -71,6 +72,11 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=testing-library)
 
 ### Other Frameworks
 
