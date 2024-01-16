@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm your friendly neighborhood **Full-stack Developer**,\
+Hey there! I'm your friendly neighborhood **Software Developer**,\
 rocking a degree from the coolest IT school in Cracow, Zespół Szkół Łączności.\
 I'm currently juggling the coding life with **part-time studies in Computer Science**\
 at Politechnika Krakowska – because why stop learning, right?
