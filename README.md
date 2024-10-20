@@ -3,10 +3,10 @@
 
 ## 🚀 About Me
 
-Hey there! I'm your friendly neighborhood **Software Developer**,\
-rocking a degree from the coolest IT school in Cracow, Zespół Szkół Łączności.\
-I'm currently juggling the coding life with **part-time studies in Computer Science**\
-at Politechnika Krakowska – because why stop learning, right?
+Hey there! I'm your friendly neighborhood **Software Developer**.\
+I'm currently juggling the life of a programmer\
+with a **full-time job as an SAP/EDI Technical Support Specialist**\
+and a **part-time studies in Computer Science at the Politechnika Krakowska**.
 
 While I'm all about **JavaScript** and its little brother **TypeScript**,\
 (**React** and **Node.js** are my jam),
