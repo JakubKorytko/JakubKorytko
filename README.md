@@ -4,9 +4,8 @@
 ## 🚀 About Me
 
 Hey there! I'm your friendly neighborhood **Software Developer**.\
-I'm currently juggling the life of a programmer\
-with a **full-time job as an SAP/EDI Technical Support Specialist**\
-and a **part-time studies in Computer Science at the Politechnika Krakowska**.
+I'm currently juggling a **full-time internship as a Software Engineer**\
+with a **part-time studies in Computer Science at the Politechnika Krakowska**.
 
 While I'm all about **JavaScript** and its little brother **TypeScript**,\
 (**React** and **Node.js** are my jam),
@@ -80,6 +79,7 @@ I'm here to make the coding world a bit more awesome, one project at a time.
 
 ### Other Frameworks
 
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 
